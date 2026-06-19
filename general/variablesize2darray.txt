@@ -1,0 +1,7 @@
+int rows = 3;
+
+int *arr[3];   // fixed number of rows
+
+arr[0] = malloc(2 * sizeof(int));
+arr[1] = malloc(5 * sizeof(int));
+arr[2] = malloc(4 * sizeof(int));
