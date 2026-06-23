@@ -1,4 +1,3 @@
-
 bool check(int* nums, int numsSize) {
     int decrease=0;
     int index=-1;
