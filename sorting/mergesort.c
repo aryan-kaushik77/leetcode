@@ -41,7 +41,7 @@ void merge(int arr[], int left, int mid, int right) {
 //     int i = 0, j = 0, k = left;
 
 //     while (i < n1 && j < n2) {
-//         if (L[i][1] <= R[j][1])   // compare END time
+//         if (L[i][1] <= R[j][1])   
 //             intervals[k++] = L[i++];
 //         else
 //             intervals[k++] = R[j++];
