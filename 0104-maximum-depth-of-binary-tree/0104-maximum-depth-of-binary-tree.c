@@ -1,105 +1,16 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     struct TreeNode *left;
- *     struct TreeNode *right;
- * };
- */
-#include <stdlib.h>
-
-
-int front = -1;
-int rear = -1;
-struct TreeNode *queue[10001];
-
-// Check if queue is empty
-int isEmpty()
-{
-    return (front == -1 || front > rear);
-}
-
-// Check if queue is full
-int isFull()
-{
-    return rear == 10000;
-}
-
-// Insert an element
-void enqueue(struct TreeNode *value)
-{
-    if (isFull())
-    {
-        return;
-    }
-
-    if (front == -1)
-    {
-        front = 0;
-    }
-
-    rear = rear + 1;
-    queue[rear] = value;
-}
-
-// Remove an element
-struct TreeNode *dequeue()
-{
-    if (isEmpty())
-    {
-        return NULL;
-    }
-
-    struct TreeNode *value = queue[front];
-    front = front + 1;
-
-    if (front > rear)
-    {
-        front = -1;
-        rear = -1;
-    }
-
-    return value;
-}
-int maxDepth(struct TreeNode* root) {
-    front = -1;
-    rear = -1;
-
-    int depth = 0;
-
-    if (root == NULL)
-    {
+int height(struct TreeNode* root){
+    if(root==NULL){
         return 0;
     }
-
-    int **ans = (int **)malloc(10000 * sizeof(int *));
-
-    enqueue(root);
-
-    while (!isEmpty())
-    {
-        int levelSize = rear - front + 1;
-
-        ans[depth] = (int *)malloc(levelSize * sizeof(int));
-
-        for (int i = 0; i < levelSize; i++)
-        {
-            struct TreeNode *k = dequeue();
-
-            ans[depth][i] = k->val;
-
-            if (k->left)
-            {
-                enqueue(k->left);
-            }
-
-            if (k->right)
-            {
-                enqueue(k->right);
-            }
-        }
-
-        depth++;
+    int left=height(root->left);
+    int right=height(root->right);
+    if(left>right){
+        return 1+left;
     }
-    return depth;
+    else{
+        return 1+right;
+    }
+}
+int maxDepth(struct TreeNode* root) {
+   return height(root);
 }
