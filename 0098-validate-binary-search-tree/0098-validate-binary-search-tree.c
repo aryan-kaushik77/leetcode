@@ -1,16 +1,26 @@
-bool check(struct TreeNode* root, long long min, long long max)
-{
-    if(root == NULL)
+// #include <limits.h>
+
+long long prev;
+
+bool inorder(struct TreeNode* root) {
+    if (root == NULL)
         return true;
 
-    if(root->val <= min || root->val >= max)
+    if (!inorder(root->left))
         return false;
 
-    return check(root->left, min, root->val) &&
-           check(root->right, root->val, max);
+    if (root->val <= prev)
+        return false;
+
+    prev = root->val;
+
+    if (!inorder(root->right))
+        return false;
+
+    return true;
 }
 
-bool isValidBST(struct TreeNode* root)
-{
-    return check(root, LLONG_MIN, LLONG_MAX);
+bool isValidBST(struct TreeNode* root) {
+    prev = LLONG_MIN;  
+    return inorder(root);
 }
