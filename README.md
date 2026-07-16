@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryan-kaushik77/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/aryan-kaushik77/leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-kaushik77/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/aryan-kaushik77/leetcode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
@@ -147,20 +148,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/aryan-kaushik77/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryan-kaushik77/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-kaushik77/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-kaushik77/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryan-kaushik77/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-kaushik77/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-kaushik77/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -172,5 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
