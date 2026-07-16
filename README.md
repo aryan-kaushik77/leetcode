@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-kaushik77/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/aryan-kaushik77/leetcode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-kaushik77/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/aryan-kaushik77/leetcode/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
 ## Dynamic Programming
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-kaushik77/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/aryan-kaushik77/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-kaushik77/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
 ## Bucket Sort
 |  |
@@ -187,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
