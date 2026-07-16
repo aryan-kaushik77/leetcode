@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-kaushik77/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/aryan-kaushik77/leetcode/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-kaushik77/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryan-kaushik77/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryan-kaushik77/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/aryan-kaushik77/leetcode/tree/master/0402-remove-k-digits) |
+| [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-kaushik77/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryan-kaushik77/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
