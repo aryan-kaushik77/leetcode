@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryan-kaushik77/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/aryan-kaushik77/leetcode/tree/master/0067-add-binary) |
 | [0402-remove-k-digits](https://github.com/aryan-kaushik77/leetcode/tree/master/0402-remove-k-digits) |
 ## Bit Manipulation
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryan-kaushik77/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aryan-kaushik77/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
