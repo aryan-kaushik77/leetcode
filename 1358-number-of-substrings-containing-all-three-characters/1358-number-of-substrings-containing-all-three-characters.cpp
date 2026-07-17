@@ -1,16 +1,20 @@
 class Solution {
 public:
-    long long atMost(string s, int k) {
+    int numberOfSubstrings(string s) {
+
         unordered_map<char,int> mp;
 
         int left = 0;
-        long long ans = 0;
+        int ans = 0;
+        int n = s.size();
 
-        for(int right = 0; right < s.size(); right++) {
+        for(int right = 0; right < n; right++) {
 
             mp[s[right]]++;
 
-            while(mp.size() > k) {
+            while(mp.size() == 3) {
+                ans += n - right;
+
                 mp[s[left]]--;
 
                 if(mp[s[left]] == 0)
@@ -18,18 +22,8 @@ public:
 
                 left++;
             }
-
-            ans += (long long)(right - left + 1);
         }
 
         return ans;
-    }
-
-    int numberOfSubstrings(string s) {
-
-        long long n = s.size();
-        long long total = n * (n + 1) / 2;
-
-        return total - atMost(s, 2);
     }
 };
