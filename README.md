@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aryan-kaushik77/leetcode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/aryan-kaushik77/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryan-kaushik77/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryan-kaushik77/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/aryan-kaushik77/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-kaushik77/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Tree
 |  |
 | ------- |
