@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aryan-kaushik77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/aryan-kaushik77/leetcode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/aryan-kaushik77/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/aryan-kaushik77/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/aryan-kaushik77/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0518-coin-change-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aryan-kaushik77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-kaushik77/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Tree
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/aryan-kaushik77/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aryan-kaushik77/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aryan-kaushik77/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aryan-kaushik77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryan-kaushik77/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryan-kaushik77/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan-kaushik77/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/aryan-kaushik77/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryan-kaushik77/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aryan-kaushik77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/aryan-kaushik77/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryan-kaushik77/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aryan-kaushik77/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -274,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/aryan-kaushik77/leetcode/tree/master/0494-target-sum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aryan-kaushik77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/aryan-kaushik77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
