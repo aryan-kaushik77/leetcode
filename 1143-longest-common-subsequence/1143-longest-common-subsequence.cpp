@@ -4,7 +4,7 @@ public:
 
         int n = text1.size();
         int m = text2.size();
-
+        int ans=0;
         vector<int> prev(m + 1, 0), curr(m + 1, 0);
 
         for (int i = 1; i <= n; i++) {
@@ -13,6 +13,7 @@ public:
 
                 if (text1[i - 1] == text2[j - 1]) {
                     curr[j] = 1 + prev[j - 1];
+                    ans=max(ans,curr[j]);
                 } else {
                     curr[j] = max(prev[j], curr[j - 1]);
                 }
@@ -21,6 +22,7 @@ public:
             prev = curr;
         }
 
-        return prev[m];
+        return ans;
     }
+    
 };
