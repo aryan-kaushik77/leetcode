@@ -4,13 +4,7 @@ public:
       uint32_t ans = 0;
 
         for (int i = 0; i < 32; i++) {
-            // Shift answer left to make space
-            ans <<= 1;
-
-            // Copy the last bit of n into ans
-            ans |= (n & 1);
-
-            // Remove the processed bit from n
+            ans = (ans << 1) | (n & 1);
             n >>= 1;
         }
 
