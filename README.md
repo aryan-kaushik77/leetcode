@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aryan-kaushik77/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/aryan-kaushik77/leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/aryan-kaushik77/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aryan-kaushik77/leetcode/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/aryan-kaushik77/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryan-kaushik77/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/aryan-kaushik77/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/aryan-kaushik77/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aryan-kaushik77/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-kaushik77/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aryan-kaushik77/leetcode/tree/master/0347-top-k-frequent-elements) |
