@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan-kaushik77/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/aryan-kaushik77/leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/aryan-kaushik77/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/aryan-kaushik77/leetcode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/aryan-kaushik77/leetcode/tree/master/0402-remove-k-digits) |
@@ -85,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aryan-kaushik77/leetcode/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/aryan-kaushik77/leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aryan-kaushik77/leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/aryan-kaushik77/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/aryan-kaushik77/leetcode/tree/master/0120-triangle) |
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aryan-kaushik77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/aryan-kaushik77/leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
