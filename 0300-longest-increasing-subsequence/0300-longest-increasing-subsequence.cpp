@@ -2,24 +2,23 @@ class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
-        vector<int>tailsval;
-        vector<int>tailsidx;
-        vector<int> parent(n,-1);
+        vector <int> dp (n,1);
+        vector <int> parent (n,-1);
+        int maxlength=1;
+        int lastidx=0;
         for(int i=0;i<n;i++){
-            int pos=lower_bound(tailsval.begin(),tailsval.end(),nums[i])-tailsval.begin();
-            if(pos==tailsval.size()){
-                tailsval.push_back(nums[i]);
-                tailsidx.push_back(i);
+            for(int j=0;j<i;j++){
+                if(nums[i]>nums[j]&&dp[j]+1>dp[i]){
+                    dp[i]=dp[j]+1;
+                    parent[i]=j;
+                }
+                if(dp[i]>maxlength){
+                    maxlength=dp[i];
+                    lastidx=i;
+                }
+
             }
-            else{
-                tailsval[pos]=nums[i];
-                tailsidx[pos]=i;
-            }
-            if (pos>0){
-                parent[i]=tailsidx[pos-1];
-            }
-        
         }
-        return tailsval.size();
+        return maxlength;
 }
 };
