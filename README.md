@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/aryan-kaushik77/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryan-kaushik77/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryan-kaushik77/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1048-longest-string-chain](https://github.com/aryan-kaushik77/leetcode/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan-kaushik77/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryan-kaushik77/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/aryan-kaushik77/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aryan-kaushik77/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/aryan-kaushik77/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/aryan-kaushik77/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/aryan-kaushik77/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aryan-kaushik77/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aryan-kaushik77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-kaushik77/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/aryan-kaushik77/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/aryan-kaushik77/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aryan-kaushik77/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/aryan-kaushik77/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
+| [1048-longest-string-chain](https://github.com/aryan-kaushik77/leetcode/tree/master/1048-longest-string-chain) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aryan-kaushik77/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryan-kaushik77/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aryan-kaushik77/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/aryan-kaushik77/leetcode/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan-kaushik77/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryan-kaushik77/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bucket Sort
@@ -290,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/aryan-kaushik77/leetcode/tree/master/0061-rotate-list) |
+| [1048-longest-string-chain](https://github.com/aryan-kaushik77/leetcode/tree/master/1048-longest-string-chain) |
 ## Combinatorics
 |  |
 | ------- |
