@@ -34,7 +34,9 @@ public:
                     dp[i]=dp[j]+1;
                 }
             }
-            ans = max(ans, dp[i]);
+            if(dp[i]>ans){
+                ans=dp[i];
+            }
         }
 
         return ans;
