@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/aryan-kaushik77/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryan-kaushik77/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/aryan-kaushik77/leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/aryan-kaushik77/leetcode/tree/master/0136-single-number) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryan-kaushik77/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aryan-kaushik77/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-kaushik77/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0229-majority-element-ii) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/aryan-kaushik77/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/aryan-kaushik77/leetcode/tree/master/0075-sort-colors) |
 | [1048-longest-string-chain](https://github.com/aryan-kaushik77/leetcode/tree/master/1048-longest-string-chain) |
 ## Combinatorics
 |  |
