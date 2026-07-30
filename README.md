@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aryan-kaushik77/leetcode/tree/master/0014-longest-common-prefix) |
 | [0063-unique-paths-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/aryan-kaushik77/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryan-kaushik77/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan-kaushik77/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/aryan-kaushik77/leetcode/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/aryan-kaushik77/leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/aryan-kaushik77/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/aryan-kaushik77/leetcode/tree/master/0076-minimum-window-substring) |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aryan-kaushik77/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
