@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryan-kaushik77/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1048-longest-string-chain](https://github.com/aryan-kaushik77/leetcode/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan-kaushik77/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aryan-kaushik77/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryan-kaushik77/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/aryan-kaushik77/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/aryan-kaushik77/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aryan-kaushik77/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aryan-kaushik77/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Tree
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/aryan-kaushik77/leetcode/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aryan-kaushik77/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
