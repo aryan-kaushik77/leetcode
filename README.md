@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/aryan-kaushik77/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryan-kaushik77/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aryan-kaushik77/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/aryan-kaushik77/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryan-kaushik77/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryan-kaushik77/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1048-longest-string-chain](https://github.com/aryan-kaushik77/leetcode/tree/master/1048-longest-string-chain) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aryan-kaushik77/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/aryan-kaushik77/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/aryan-kaushik77/leetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/aryan-kaushik77/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0063-unique-paths-ii) |
+| [0994-rotting-oranges](https://github.com/aryan-kaushik77/leetcode/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
