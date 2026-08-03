@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/aryan-kaushik77/leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/aryan-kaushik77/leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aryan-kaushik77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/aryan-kaushik77/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/aryan-kaushik77/leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/aryan-kaushik77/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/aryan-kaushik77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryan-kaushik77/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan-kaushik77/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/aryan-kaushik77/leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/aryan-kaushik77/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aryan-kaushik77/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/aryan-kaushik77/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aryan-kaushik77/leetcode/tree/master/0994-rotting-oranges) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0063-unique-paths-ii) |
+| [0542-01-matrix](https://github.com/aryan-kaushik77/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aryan-kaushik77/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aryan-kaushik77/leetcode/tree/master/0994-rotting-oranges) |
 ## Backtracking
