@@ -18,7 +18,7 @@ public:
         int dr[] = {1, -1, 0, 0};
         int dc[] = {0, 0, 1, -1};
 
-        // BFS
+
         while(!q.empty()) {
             auto [r, c] = q.front();
             q.pop();
@@ -34,7 +34,6 @@ public:
             }
         }
 
-        // Flip surrounded O's to X and restore boundary-connected O's
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
                 if(board[i][j] == 'O')
