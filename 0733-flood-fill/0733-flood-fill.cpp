@@ -5,15 +5,15 @@ public:
         int n=image[0].size();
         queue<pair<int,int>>q;
         int original=image[sr][sc];
-        if(original==color){
+        q.push({sr,sc});
+        if(image[sr][sc]==color){
             return image;
         }
-        q.push({sr,sc});
         image[sr][sc]=color;
         int dr[]={1,-1,0,0};
         int dc[]={0,0,1,-1};
-        while (!q.empty()){
-            auto [r,c]=q.front();
+        while(!q.empty()){
+            auto[r,c]=q.front();
             q.pop();
             for(int k=0;k<4;k++){
                 int nr=r+dr[k];
@@ -23,8 +23,8 @@ public:
                     q.push({nr,nc});
                 }
             }
+
         }
         return image;
-
         }
 };
