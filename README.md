@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aryan-kaushik77/leetcode/tree/master/0014-longest-common-prefix) |
+| [0045-jump-game-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/aryan-kaushik77/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryan-kaushik77/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/aryan-kaushik77/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/aryan-kaushik77/leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/aryan-kaushik77/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/aryan-kaushik77/leetcode/tree/master/0846-hand-of-straights) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/aryan-kaushik77/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/aryan-kaushik77/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/aryan-kaushik77/leetcode/tree/master/0120-triangle) |
