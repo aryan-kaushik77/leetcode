@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/aryan-kaushik77/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/aryan-kaushik77/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aryan-kaushik77/leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/aryan-kaushik77/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryan-kaushik77/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aryan-kaushik77/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aryan-kaushik77/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan-kaushik77/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aryan-kaushik77/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryan-kaushik77/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryan-kaushik77/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryan-kaushik77/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryan-kaushik77/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/aryan-kaushik77/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/aryan-kaushik77/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aryan-kaushik77/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/aryan-kaushik77/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/aryan-kaushik77/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aryan-kaushik77/leetcode/tree/master/0547-number-of-provinces) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/aryan-kaushik77/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/aryan-kaushik77/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/aryan-kaushik77/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aryan-kaushik77/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aryan-kaushik77/leetcode/tree/master/0994-rotting-oranges) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/aryan-kaushik77/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/aryan-kaushik77/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aryan-kaushik77/leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/aryan-kaushik77/leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
