@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/aryan-kaushik77/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/aryan-kaushik77/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/aryan-kaushik77/leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/aryan-kaushik77/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aryan-kaushik77/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/aryan-kaushik77/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/aryan-kaushik77/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/aryan-kaushik77/leetcode/tree/master/0120-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/aryan-kaushik77/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/aryan-kaushik77/leetcode/tree/master/0312-burst-balloons) |
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aryan-kaushik77/leetcode/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aryan-kaushik77/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
