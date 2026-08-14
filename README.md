@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryan-kaushik77/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/aryan-kaushik77/leetcode/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/aryan-kaushik77/leetcode/tree/master/0063-unique-paths-ii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryan-kaushik77/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryan-kaushik77/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/aryan-kaushik77/leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/aryan-kaushik77/leetcode/tree/master/0169-majority-element) |
